@@ -48,10 +48,10 @@ smart people in the world have already found solutions for this and created
 
 ## Decentralized version control with `git`
 
-An absolute must-know for each software developer, scientist engineer and even writer. See the [Wikipedia article](https://en.wikipedia.org/wiki/Git#:~:text=Git%20(%2F%C9%A1ɪt%2F,source%20code%20during%20software%20development.)
-for a detailed description. Basically a command-line based tool that keeps track of each contributor's file changes.
-Changes are tracked through commits that the author of the changes can arbitrarily compose and then push to the server.
-These commits can then be pulled by other contributors and merged with their own ones.
+An absolute must-know for each software developer, scientist engineer and even writer. See the
+[git website](https://git-scm.com).  for a detailed description. Basically a command-line based tool that keeps track of each
+contributor's file changes.  Changes are tracked through commits that the author of the changes can arbitrarily compose
+and then push to the server.  These commits can then be pulled by other contributors and merged with their own ones.
 
 * [1h YouTube tutorial for Git beginners](https://www.youtube.com/watch?v=8JJ101D3knE)
 * [Online w3schools tutorial](https://www.w3schools.com/git/)
