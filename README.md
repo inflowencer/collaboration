@@ -58,6 +58,8 @@ These commits can then be pulled by other contributors and merged with their own
 
 ## `Markdown` for unified exchange of information
 
+[See this guide on how to write Markdown](https://quarto.org/docs/authoring/markdown-basics.html)
+
 Super-easy syntax for writing text documents (reports), documenting code, or writing notes. Also natively supports LaTeX equations. The following code block produces
 
 `````markdown
@@ -126,8 +128,6 @@ Kn = k_B * T / ( np.sqrt(2) * np.pi * d**2 * p * L)
 
 print(round(Kn, 3))
 ```
-
-[See this guide on how to write Markdown](https://quarto.org/docs/authoring/markdown-basics.html)
 
 ## `pandoc` for automatic conversion of `Markdown`
 
